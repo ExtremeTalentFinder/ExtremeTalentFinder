@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ExtremeTalentFinder- I'm working with a long term client and they have asked me to identify the best/brightest individual to work on a project.
+- and be the Lead Firmware Engineer. This can be Corp to Corp or we can be the Employer of Record. My client is a small engineering firm and they do some pretty cool stuff. You could have a job
+- or a gig and be looking for an additional project. You won't need to clock in, however will need to deliver results in the timeframe required to meet the job
+- requirements. Must be well versed in RP2040 and ESP32, experience with C and C++.  Experience with Tiny US USB and IwIP along with Expressive Toolchain
+- This contract will be 3-4 months and could extend an additional 2-3 months when it goes to manufacturing install. Must be located in the USA. Will work remote-
+- chosen individual will have the hardware sent to them once my client hires/contracts with the individual. If you are interested in learning more email me
+- mark@mbr-associates.com. Look forward to our conversations and sharing more!
